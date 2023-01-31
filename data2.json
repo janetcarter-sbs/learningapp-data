@@ -87,7 +87,7 @@
 			},
 			{
 				"id": 1,
-				"content": "<p>How can you customize the display and behaviour of a view in SwiftUI?</p>",
+				"content": "<p>How can you customize the display and behavior of a view in SwiftUI?</p>",
 				"correctIndex": 2,
 				"answers": [
 					"Change it in the storyboard",
