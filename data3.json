@@ -5,7 +5,7 @@
 		"id": 0,
 		"image": "swiftUI",
 		"time": "2 hours",
-		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
+		"description": "Discover the innovative and simple way to quickly build apps on Apple platforms, especially iOS.",
 		"lessons": [{
 				"id": 0,
 				"title": "App Structure and Behaviour",
@@ -60,7 +60,7 @@
 				"title": "Gestures",
 				"video": "SwiftUI%20trimmed.mp4",
 				"duration": "15 minutes",
-				"explanation": "<p>Respond to taps and gestures by adding gesture modifiers to your views. Create custom gestures from individual gestures using the simultaneously(with:), sequenced(before:), or exclusively(before:) modifiers, or combine gestures with keyboard modifiers using the modifiers(_:) modifier.</p>"
+				"explanation": "<p>Responds to taps and gestures by adding gesture modifiers to your views. Create custom gestures from individual gestures using the simultaneously(with:), sequenced(before:), or exclusively(before:) modifiers, or combine gestures with keyboard modifiers using the modifiers(_:) modifier.</p>"
 			},
 			{
 				"id": 8,
